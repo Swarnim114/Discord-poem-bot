@@ -53,4 +53,4 @@ This is a simple Discord bot that responds to the `!poem` command with a random 
 
 
 ## Screen shot
-![img](image.png)
+![image](https://github.com/user-attachments/assets/d8eb7875-0601-4b52-9b0a-f2ac5309df7c)
